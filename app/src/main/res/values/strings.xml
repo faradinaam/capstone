@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="welcome">Welcome to Walbiz</string>
+
+    <string name="landing">We are here to help investors find the best investment opportunities in the franchise world. Explore various attractive franchise options, get in-depth analyses, and discover opportunities that align with your investment goals.
+With Walbiz, we make it easy for you to find potential franchise businesses and provide full support for the success of your investment. Let's build a profitable business portfolio together!</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="titleSignin">Sign in to Walbiz</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="signup">Sign up</string>
+    <string name="signupchoices">or sign in with e-mail</string>
+    <string name="signupWithGoogle">Sign up with Google</string>
+    <string name="article_title">Franchise Boom: Entrepreneurs Flock to Proven Business Models</string>
+    <string name="article_desc">likely discusses the current trend of entrepreneurs increasingly opting for...</string>
+</resources>

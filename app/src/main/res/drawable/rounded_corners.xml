@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/white" /> <!-- Sesuaikan dengan warna latar belakang yang diinginkan -->
+    <corners android:radius="200dp" /> <!-- Sesuaikan dengan radius sudut yang diinginkan -->
+</shape>
